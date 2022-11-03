@@ -8,7 +8,7 @@
 -
 - _swag init_
 
-After every 'swag init' command, run a new docs folder will be created.
+After every 'swag init' command run, a new docs folder will be created.
 Then browse http://localhost:8080/docs/index.html we will see the swagger 
 documentation. 
 
